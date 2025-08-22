@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Hermes Rojas
 
 💻 **Desarrollador en formación** | Estudiante de Computación en la Universidad de Costa Rica
