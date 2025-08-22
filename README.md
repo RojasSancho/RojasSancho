@@ -1,14 +1,14 @@
 ## Hi there 👋
 # 👋 ¡Hola! Soy Hermes Rojas
 
-💻 **Desarrollador en formación** | Estudiante de Computación en la UCR  
+💻 **Desarrollador en formación** | Estudiante de Computación en la Universidad de Costa Rica
 📚 Apasionado por el **backend**, la **automatización** y el **hardware**  
 🎯 Buscando mejorar en **Python**, **APIs** y **desarrollo de software escalable**
 
 ---
 
 ## 🚀 Tecnologías que uso
-- **Lenguajes:** Python, Java, R (básico)
+- **Lenguajes:** Python, Java, C++
 - **Herramientas:** Git, GitHub, VS Code
 - **Intereses:** Backend, DevOps, Gaming, Optimización de sistemas
 
@@ -22,9 +22,9 @@
 ---
 
 ## 📫 Contáctame
-- **Email:** tuemail@ejemplo.com
+- **Email:** josue09rs@gmail.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- **GitHub:** [github.com/josuerojas](https://github.com/josuerojas)
+- **GitHub:** [github.com/josuerojas](https://github.com/RojasSancho)
 
 ---
 
