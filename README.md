@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Hermes Rojas
 
 💻 **Desarrollador en formación** | Estudiante de Computación en la Universidad de Costa Rica
+
 Apasionado por el **backend**, la **automatización** y el **hardware**  
 Buscando mejorar en **Python**, **APIs** y **desarrollo de software escalable**
 
