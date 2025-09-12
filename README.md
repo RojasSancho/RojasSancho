@@ -9,7 +9,7 @@ Buscando mejorar en **Python**, **APIs** y **desarrollo de software escalable**
 ## 🚀 Tecnologías que uso
 - **Lenguajes:** Python, C++
 - **Herramientas:** Git, GitHub, VS Code
-- **Intereses:** Backend, DevOps, Gaming, Optimización de sistemas
+- **Intereses:** Backend, DevOps y Optimización de sistemas
 
 ---
 
@@ -28,17 +28,3 @@ Buscando mejorar en **Python**, **APIs** y **desarrollo de software escalable**
 ---
 
 **Siempre aprendiendo y creando.**
-<!--
-**RojasSancho/RojasSancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
