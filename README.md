@@ -7,7 +7,7 @@ Buscando mejorar en **Python**, **APIs** y **desarrollo de software escalable**
 ---
 
 ## 🚀 Tecnologías que uso
-- **Lenguajes:** Python, Java, C++
+- **Lenguajes:** Python, C++
 - **Herramientas:** Git, GitHub, VS Code
 - **Intereses:** Backend, DevOps, Gaming, Optimización de sistemas
 
