@@ -1,6 +1,6 @@
 # 👋 ¡Hi! I'm Hermes Rojas Sancho
 
-💻 **Software engineer in training** | Computer  Student at the University of Costa Rica.
+💻 **Software engineer in training** | Computer Science student at the University of Costa Rica (UCR).
 
 Passionate about ...
 Looking to improve in ...
