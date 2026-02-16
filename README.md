@@ -1,30 +1,27 @@
-# 👋 ¡Hola! Soy Hermes Rojas
+# 👋 ¡Hola! Soy Hermes Rojas Sancho
 
 💻 **Desarrollador en formación** | Estudiante de Computación en la Universidad de Costa Rica
 
-Apasionado por el **backend**, la **automatización** y el **hardware**  
-Buscando mejorar en **Python**, **APIs** y **desarrollo de software escalable**
+Apasionado por ...
+Buscando mejorar en ...
 
 ---
 
 ## 🚀 Tecnologías que uso
-- **Lenguajes:** Python, C++
+- **Lenguajes:** Python, C/C++, JavaScript
 - **Herramientas:** Git, GitHub, VS Code
-- **Intereses:** Backend, DevOps y Optimización de sistemas
+- **Intereses:** 
 
 ---
 
 ## 📌 Proyectos Destacados
-- [**Backend CRUD con Flask**](URL-DE-TU-REPO) → API REST sencilla con SQLite
-- [**Tarea de Estadística en R**](URL-REPO) → Análisis y visualización de datos
-- [**Proyecto Universidad (nombre)**](URL-REPO) → Breve descripción
+...
 
 ---
 
 ## 📫 Contáctame
-- **Email:** josue09rs@gmail.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- **GitHub:** [github.com/josuerojas](https://github.com/RojasSancho)
+- **Email:** josue09rs@gmail.com / hermes.rojassancho@ucr.ac.cr
+- **LinkedIn:** ...
 
 ---
 
