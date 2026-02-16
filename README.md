@@ -2,8 +2,8 @@
 
 💻 **Software engineer in training** | Computer  Student at the University of Costa Rica.
 
-Apasionado por ...
-Buscando mejorar en ...
+Passionate about ...
+Looking to improve in ...
 
 ---
 
@@ -25,4 +25,4 @@ Buscando mejorar en ...
 
 ---
 
-**Always researching and learning how everything really works.*
+*Always researching and learning how everything really works.*
