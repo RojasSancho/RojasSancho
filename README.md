@@ -1,28 +1,28 @@
-# 👋 ¡Hola! Soy Hermes Rojas Sancho
+# 👋 ¡Hi! I'm Hermes Rojas Sancho
 
-💻 **Desarrollador en formación** | Estudiante de Computación en la Universidad de Costa Rica
+💻 **Software engineer in training** | Computer  Student at the University of Costa Rica.
 
 Apasionado por ...
 Buscando mejorar en ...
 
 ---
 
-## 🚀 Tecnologías que uso
-- **Lenguajes:** Python, C/C++, JavaScript
-- **Herramientas:** Git, GitHub, VS Code
-- **Intereses:** 
+## 🔧 Technologies I use:
+- **Languages:** Python, C/C++, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** 
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Featured projects:
 ...
 
 ---
 
-## 📫 Contáctame
+## 📫 Contact me
 - **Email:** josue09rs@gmail.com / hermes.rojassancho@ucr.ac.cr
 - **LinkedIn:** ...
 
 ---
 
-**Siempre aprendiendo y creando.**
+**Always researching and learning how everything really works.*
