@@ -8,7 +8,7 @@ Looking to improve in ...
 ---
 
 ## 🔧 Technologies I use:
-- **Languages:** Python, C/C++, JavaScript
+- **Languages:** Python, C/C++
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** 
 
